@@ -21,10 +21,6 @@ nav {
     margin-bottom: 20px;
     background-color: #c2c3ba;
     font-size: 30px;
-    position: absolute;
-    top: 2em;
-    left: 1em;
-    width: 9em;
 }
 nav a {
     color: #26235c;
