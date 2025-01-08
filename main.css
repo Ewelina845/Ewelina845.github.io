@@ -14,7 +14,6 @@ main {
 	max-width: 800px;
     margin: auto;
     padding: 20px;
-    background: white;
     box-shadow: 0 2px 20px rgba(0, 0, 0, 0.1);
 }
 nav {
@@ -56,7 +55,7 @@ h2 {
 .text {
     display: flex;
     flex-direction: column;
-    align-items: start;
+    align-items: stretch;
 }
 .img-container img {
     max-width: 100%;
